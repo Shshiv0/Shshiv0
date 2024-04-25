@@ -13,9 +13,9 @@
     <a href="https://github.com/Shshiv0?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
     <a href="https://github.com/Shshiv0?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <br>
-    <p align="left">[ Relevant Experience ]</p>
-    <p align="left">Data Analyst Volunteer at SLYE Network</p>
-    <p align="left">Computer Science Tutor</p>
+    <p><b>[ Relevant Experience ]</b></p>
+    <p>Data Analyst Volunteer at SLYE Network</p>
+    <p>Computer Science Tutor</p>
   <br>
   <a href="https://github.com/Shshiv0/Shshiv0" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Shshiv0/Shshiv0?label=profile%20updated&style=flat-square"></a>
   </p>
