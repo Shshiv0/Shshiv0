@@ -15,7 +15,7 @@
   <br>
     <p><b>[ Relevant Experience ]</b></p>
     <p>Data Analyst Volunteer at SLYE Network</p>
-    <p>Computer Science Tutor</p>
+    <p>Computer Science Instructor</p>
   <br>
   <a href="https://github.com/Shshiv0/Shshiv0" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Shshiv0/Shshiv0?label=profile%20updated&style=flat-square"></a>
   </p>
