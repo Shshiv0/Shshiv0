@@ -13,10 +13,7 @@
     <a href="https://github.com/Shshiv0?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
     <a href="https://github.com/Shshiv0?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <br>
-    <p><b>[ Relevant Experience ]</b></p>
-    <p>Software Engineer at Diagnosis on Demand</p>
-    <p>Data Analyst Volunteer at SLYE Network</p>
-    <p>Computer Science Instructor</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Shshiv0&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
   <br>
   <a href="https://github.com/Shshiv0/Shshiv0" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Shshiv0/Shshiv0?label=profile%20updated&style=flat-square"></a>
   </p>
