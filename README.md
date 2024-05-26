@@ -1,6 +1,6 @@
 <h3 align="center">Hello! I am Shiv K. Patel</h3>
 
-<p align="center">[ Computer Software Engineer ]</p>
+<p align="center">[ Software Developer ]</p>
 
 <details align="center">
   <summary>Details</summary>
@@ -14,6 +14,7 @@
     <a href="https://github.com/Shshiv0?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <br>
     <p><b>[ Relevant Experience ]</b></p>
+    <p>Software Engineer at Diagnosis on Demand</p>
     <p>Data Analyst Volunteer at SLYE Network</p>
     <p>Computer Science Instructor</p>
   <br>
