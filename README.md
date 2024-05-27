@@ -13,9 +13,8 @@
     <a href="https://github.com/Shshiv0?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
     <a href="https://github.com/Shshiv0?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Shshiv0&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Shshiv0&theme=prussian&show_icons=true&hide_border=true&count_private=true"></img>
   <br>
-  ![shshiv0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shshiv0&theme=vue-dark&hide_border=true)
   </p>
 </details>
 
