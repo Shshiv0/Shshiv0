@@ -15,8 +15,8 @@
   <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shshiv0&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img>
   <br>
-  <a href="https://github.com/kevinjycui/kevinjycui" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/kevinjycui/kevinjycui?label=profile%20updated&style=flat-square"></a>
+  <a href="https://github.com/Shshiv0/Shshiv0" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Shshiv0/Shshiv0?label=profile%20updated&style=flat-square"></a>
   </p>
 </details>
 
-<p align="center">════════════<br>Shiv K. Patel</p>
+<p align="center">══════════<br>Shiv K. Patel</p>
