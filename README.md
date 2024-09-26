@@ -14,6 +14,7 @@
     <a href="https://github.com/Shshiv0?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Shshiv0&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shshiv0&show_icons=truel&hide_border=true&include_all_commits=false&count_private=false&layout=compact"></img><br>
   <br>
   <a href="https://github.com/Shshiv0/Shshiv0" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Shshiv0/Shshiv0?label=profile%20updated&style=flat-square"></a>
   </p>
