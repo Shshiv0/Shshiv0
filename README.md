@@ -1,4 +1,4 @@
-<h3 align="center">Hello! I am Shiv K. Patel</h3>
+<h3 align="center">Hello! I am Shiv Patel</h3>
 
 <p align="center">[ Software Engineering Bachelor of Engineering Candidate ]</p>
 
