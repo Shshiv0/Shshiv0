@@ -1,6 +1,6 @@
 <h3 align="center">Hello! I am Shiv Patel</h3>
 
-<p align="center">[ Software Engineering Bachelor of Engineering Candidate ]</p>
+<p align="center">[ Software Developer at Maple ]</p>
 
 <details align="center">
   <summary>Details</summary>
